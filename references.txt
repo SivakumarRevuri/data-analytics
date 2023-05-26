@@ -1,0 +1,20 @@
+free Data Engineering course just for you!
+
+16 free lessons to get you interview-ready and move ahead of 90% of people.
+
+1. Master Python: https://lnkd.in/dWHzkWqp
+2. Learn SQL: https://lnkd.in/dSM8zwqS
+3. Learn MySQL: https://lnkd.in/gf954cZU
+4. Learn MongoDB: https://lnkd.in/gKctDZkj
+5. Dominate PySpark: https://lnkd.in/gnyn8YCK
+6. Learn Bash, Airflow & Kafka: https://lnkd.in/gQUv-nyF
+7. Learn Git & GitHub: https://lnkd.in/gqttPT62
+8. Learn CICD basics: https://lnkd.in/epKGivFY
+9. Decode Data Warehousing: https://lnkd.in/dZ7WYMFV
+10. Learn DBT: : https://lnkd.in/eG9eaEuE
+11. Learn Data Lakes: https://lnkd.in/gKT66F-B
+12. Learn DataBricks: https://lnkd.in/g2kce7xt
+13. Learn Azure Databricks: https://lnkd.in/gxcuY2AN
+14. Learn Snowflake: https://lnkd.in/erETmtFU
+15. Learn Apache NiFi: https://lnkd.in/gsYnWy-y
+16. Learn Debezium: http://bit.ly/3K6W5gL
