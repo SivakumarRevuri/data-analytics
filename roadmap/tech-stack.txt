@@ -1,0 +1,7 @@
+
+Python Libraries for Data Analytics:
+    1. Numpy - fast math
+    2. Pandas - to analyze the data using series and dataframes
+    3. Matplotlib & Seaborn - to graph the data
+    4. scikit learn - make predictions
+    5. scrapy - to scrape the data from websites
